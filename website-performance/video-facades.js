@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
           iframe.style.left = '0';
           iframe.style.width = '100%';
           iframe.style.height = '100%';
-          iframe.title = 'rev-mobile-app';
+          iframe.title = 'title of the video';
 
           // Optionally wrap iframe in a div for additional styling or control
           // wrapping the iframe in a div allows you to control the size of the iframe by styling the div that wraps it
